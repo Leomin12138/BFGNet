@@ -4,7 +4,7 @@ BF-GNet is the open-source code for the paper “BF-GNet: An RGB-D Fusion Networ
 
 This is a grasp pose estimation algorithm with high precision and speed in complex backgrounds. This project includes the model architecture, dataset processing methods, and training/prediction scripts.
 
-Grasping video URL: https://youtube.com/shorts/CAHMzZZEaNI
+Grasping video URL: [https://youtube.com/shorts/CAHMzZZEaNI](https://www.youtube.com/shorts/eyLFwb3K-UE)
 
 Cornell Grasping Dataset
 Download and extract the Cornell Grasping Dataset:  [cornell_grasp ](https://www.kaggle.com/datasets/oneoneliu/cornell-grasp)
